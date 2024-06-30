@@ -6,3 +6,4 @@ Ahmad Musa Bindawa NAS/STE/20/1020
 Abdulrazaq Ibrahim Abubakar NAS/STE/21/2085
 Abdulrahman Hasssan Garba NAS/STE/20/1103
 Umar Lawal Adam NAS/STE/19/1116
+Abubakar Sulaiman NAS/STE/20/1070
